@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_Auto_configDataSet" targetNamespace="http://tempuri.org/_Auto_configDataSet.xsd" xmlns:mstns="http://tempuri.org/_Auto_configDataSet.xsd" xmlns="http://tempuri.org/_Auto_configDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Auto_configConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Auto_configConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Autoconfig.Properties.Settings.GlobalReference.Default.Auto_configConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_Auto_configDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_Auto_configDataSet" msprop:Generator_UserDSName="_Auto_configDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="auto-config" msprop:Generator_TableClassName="_auto_configDataTable" msprop:Generator_TableVarName="_tableauto_config" msprop:Generator_RowChangedName="_auto_configRowChanged" msprop:Generator_TablePropName="_auto_config" msprop:Generator_RowDeletingName="_auto_configRowDeleting" msprop:Generator_RowChangingName="_auto_configRowChanging" msprop:Generator_RowEvHandlerName="_auto_configRowChangeEventHandler" msprop:Generator_RowDeletedName="_auto_configRowDeleted" msprop:Generator_RowClassName="_auto_configRow" msprop:Generator_UserTableName="auto-config" msprop:Generator_RowEvArgName="_auto_configRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Game" msprop:Generator_ColumnVarNameInTable="columnGame" msprop:Generator_ColumnPropNameInRow="Game" msprop:Generator_ColumnPropNameInTable="GameColumn" msprop:Generator_UserColumnName="Game">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

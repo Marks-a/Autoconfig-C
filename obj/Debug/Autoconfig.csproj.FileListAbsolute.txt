@@ -1,0 +1,10 @@
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\bin\Debug\Autoconfig.exe.config
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\bin\Debug\Autoconfig.exe
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\bin\Debug\Autoconfig.pdb
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\obj\Debug\Autoconfig.csprojAssemblyReference.cache
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\obj\Debug\Autoconfig.Autoconfig.resources
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\obj\Debug\Autoconfig.Properties.Resources.resources
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\obj\Debug\Autoconfig.csproj.GenerateResource.cache
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\obj\Debug\Autoconfig.csproj.CoreCompileInputs.cache
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\obj\Debug\Autoconfig.exe
+C:\Users\Elementey\Desktop\Autoconfig\Autoconfig\Autoconfig\obj\Debug\Autoconfig.pdb
